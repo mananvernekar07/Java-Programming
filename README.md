@@ -15,3 +15,6 @@ this program shows how Integer data variable can be used to store values and cal
 
 # 3. Literals
 this program shows how literals of different data types hold different values
+
+# 4. User Inputs
+this program is Combination of Two or more different Functions which uses different Scanner class Methods
