@@ -12,3 +12,6 @@ basic program for beginners for introduction to java with basic "Hello World" pr
 
 # 2. Sum of three numbers
 this program shows how Integer data variable can be used to store values and calculate the Sum of Integer Numbers
+
+# 3. Literals
+this program shows how literals of different data types hold different values
