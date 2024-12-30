@@ -34,4 +34,4 @@ Question 4 = Write a program to convert Kilometers into Miles in Java
 Question 5 = Write a program to detect whether a number entered by user is Integer or not in Java
 
 # 7. Operators
-this simple program explains usage of different types of operators in Java
+this simple program explains the usage of different types of operators in Java
