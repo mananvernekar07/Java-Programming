@@ -18,3 +18,6 @@ this program shows how literals of different data types hold different values
 
 # 4. User Inputs
 this program is Combination of Two or more different Functions which uses different Scanner class Methods
+
+# 5. Exam Percentage Calculator
+this program uses Scanner class to take input of marks from the user and then calculate the Percentage for 5 subject marks and print it
