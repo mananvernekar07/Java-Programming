@@ -2,7 +2,8 @@ public class Main {
     public static void main(String[] args) {
 
         int a = 9; //1.assignment operator
-        //int b = 7; 
+        //int b = 7;
+        System.out.println(a); 
 
         //b*=7; //2.arithmetic operator
         int b = a% 4;//modulo operator
