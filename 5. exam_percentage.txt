@@ -1,0 +1,22 @@
+import java.util.Scanner ;
+
+public class exampercentage {
+    public static void main(String[] args) {
+        System.out.println("Let's Calculate Your Percentage!");
+        System.out.println("for that...");
+        System.out.println("Enter Your 1st Subject Marks: ");
+        Scanner s = new Scanner(System.in);
+        float num1  = s.nextFloat() ;
+        System.out.println("Enter Your 2nd Subject Marks: ");
+        float num2  = s.nextFloat() ;
+        System.out.println("Enter Your 3rd Subject Marks: ");
+        float num3  = s.nextFloat() ;
+        System.out.println("Enter Your 4th Subject Marks: ");
+        float num4  = s.nextFloat() ;
+        System.out.println("Enter Your 5th Subject Marks: ");
+        float num5  = s.nextFloat() ;
+        float sum = num1 + num2 + num3 + num4 + num5 ;
+        float ptge = sum/500*100;
+        System.out.println("Your Percentage: " +ptge+"%");
+    }
+}
