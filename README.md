@@ -32,3 +32,6 @@ Question 3 = Write a program that asks user to enter their name and greets them 
 Question 4 = Write a program to convert Kilometers into Miles in Java
 
 Question 5 = Write a program to detect whether a number entered by user is Integer or not in Java
+
+# 7. Operators
+this simple program explains usage of different types of operators in Java
