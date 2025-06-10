@@ -35,3 +35,6 @@ Question 5 = Write a program to detect whether a number entered by user is Integ
 
 # 7. Operators
 this simple program explains the usage of different types of operators in Java
+
+# 8. Precedence & Associativity
+this program explains how the operators execute based on their Precedence and Associativity
