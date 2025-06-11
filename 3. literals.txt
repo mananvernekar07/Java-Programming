@@ -1,0 +1,13 @@
+public class Main{
+    public static void main(String[] args) {
+        byte age1 = 19;
+        int age2 = 25;
+        char c = 'M';
+        float f = 7.00f;
+        double d = 7.00;
+        boolean b = true;
+        String name = "Manan";
+        System.out.println(name);
+        System.out.print(age2);
+    }
+}
