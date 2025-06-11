@@ -1,8 +1,6 @@
-package mv.company;
-
 import java.sql.SQLOutput;
 
-public class MV_Precedence_Associativity {
+public class Main {
     public static void main(String[] args) {
         int a = 7*10-70/10;
         /*
